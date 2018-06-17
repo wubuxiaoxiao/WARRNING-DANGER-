@@ -1,0 +1,2 @@
+# WARRNING-DANGER-
+请勿连接此网络
